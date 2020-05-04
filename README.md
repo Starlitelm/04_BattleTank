@@ -23,7 +23,7 @@
           * Gun sound
           * Turret sounds (moving)
           * Engine sounds
-          ** Explosion/impact sound
+          * Explosion/impact sound
   
 * **Particle Effect**
      * Gun firing
