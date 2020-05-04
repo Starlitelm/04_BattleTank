@@ -6,14 +6,14 @@
 
 # Game Design Document
 * **Concept**
-      * Open-world tank combat game
-      * Terrain used for tactical advantage
-      * Focus - flow and feel
+     * Open-world tank combat game
+     * Terrain used for tactical advantage
+     * Focus - flow and feel
   
 * **Rules**
-      * Move anywhere in the terrain which is surrounded by mountains
-      * Each hit will decrease the health bar of the one damaged
-      * The last player alive will be considered the winner 
+     * Move anywhere in the terrain which is surrounded by mountains
+     * Each hit will decrease the health bar of the one damaged
+     * The last player alive will be considered the winner 
   
 * **Sounds**
      * Title screen music
